@@ -1,4 +1,4 @@
-# Next.js Boilerplate
+# Next.js Boilerplate (! this boilerplate still on progress)
 
 Ini adalah boilerplate Next.js modern yang dirancang untuk mempercepat pengembangan aplikasi web skala besar dan mudah di-maintain. Dibangun dengan fokus pada performa, pengalaman developer, dan skalabilitas menggunakan **App Router** Next.js 13/14, **TypeScript**, **Tailwind CSS**, dan berbagai library penting lainnya.
 
